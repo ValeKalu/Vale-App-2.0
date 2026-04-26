@@ -1,3 +1,4 @@
+// Deployment trigger v2
 // ============================================================
 // App.tsx — Val Health App v2 — Integration shell
 // Connects: useCycleSync → TodayView, TrainingView, CycleView,
